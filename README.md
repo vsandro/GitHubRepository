@@ -17,10 +17,10 @@ Aplicação desenvolvida em **Node.js** para acesso a API pública do GitHub.
 ## 2. Tecnologias (Techs)
 
 - NodeJs
+- Typescript
 - styled-components
 - localStorage
-- react-router-dom
-- useState, useEffect
+- react-router-dom, useState, useEffect etc
 
 
 ## 4. Funcionalidades
