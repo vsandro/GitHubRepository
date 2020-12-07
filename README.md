@@ -1,46 +1,66 @@
-# Getting Started with Create React App
+# GitHubRepository
+Sistema desenvolvido em **Node.js** 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align='center'>
+<img src='./frontend/src/assets/logotipo.png' alt='logo do treinamento'> 
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## 1. Introdução
 
-### `yarn start`
+Aplicação desenvolvida em **Node.js** para treindar o acesso a API pública do GitHub.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align='center'>
+<img src='https://i.giphy.com/media/WOg7qdA8bRrWutWH9Z/giphy.gif' alt='gif animado'> 
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 2. Tecnologias (Techs)
 
-### `yarn test`
+- NodeJs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## 4. Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Adicionar usuário do GitHub que deseja acompanhar;
+- Visualiza repositórios públicos de um usuário;
+- Visualiza quem o usuário segue no GitHub.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align='center'>
+<img src='./page-app1.png' alt='page app'> 
+<img src='./page-app2.png' alt='page app'> 
+<img src='./page-app3.png' alt='page app'>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## 5. Instalação e execução. :octocat:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Clone](https://help.github.com/articles/cloning-a-repository/) o projeto na sua máquina executando o seguinte comando no seu terminal:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+git clone https://github.com/vsandro/GitHubRepository.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Instale as dependências do projeto com o comando:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```sh
+cd Github
+yarn
+```
 
-## Learn More
+- Rode o projeto na sua máquina com:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+yarn start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+```sh
+http://localhost:3000
+```
+
+## 6. Autoria
+
+Este projeto foi desenvolvido por [Sandro Vieira](https://www.linkedin.com/in/vsandro) baseado em uma aplicação de acesso ao GitHub do Bootcamp GoStack da Rocketseat.
+
+
+
