@@ -23,7 +23,7 @@ Aplicação desenvolvida em **Node.js** para acesso a API pública do GitHub.
 - react-router-dom, useState, useEffect etc
 
 
-## 4. Funcionalidades
+## 3. Funcionalidades
 
 - Adiciona usuário do GitHub que deseja acompanhar;
 - Visualiza todos os repositórios públicos de um usuário;
@@ -36,7 +36,7 @@ Aplicação desenvolvida em **Node.js** para acesso a API pública do GitHub.
 </p>
 
 
-## 5. Instalação e execução. :octocat:
+## 4. Instalação e execução. :octocat:
 
 - [Clone](https://help.github.com/articles/cloning-a-repository/) o projeto na sua máquina executando o seguinte comando no seu terminal:
 
@@ -62,7 +62,7 @@ yarn start
 http://localhost:3000
 ```
 
-## 6. Autoria
+## 5. Autoria
 
 Este projeto foi desenvolvido por [Sandro Vieira](https://www.linkedin.com/in/vsandro) baseado em uma aplicação de acesso ao GitHub do Bootcamp GoStack da Rocketseat.
 
