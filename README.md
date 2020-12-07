@@ -2,7 +2,7 @@
 Sistema desenvolvido em **Node.js** 
 
 <p align='center'>
-<img src='./frontend/src/assets/GoStack.png' alt='logo do treinamento'> 
+<img src='./GoStack.png' alt='logo do treinamento'> 
 </p>
 
 
