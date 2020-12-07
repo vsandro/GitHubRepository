@@ -2,13 +2,13 @@
 Sistema desenvolvido em **Node.js** 
 
 <p align='center'>
-<img src='./frontend/src/assets/logotipo.png' alt='logo do treinamento'> 
+<img src='./frontend/src/assets/GoStack.png' alt='logo do treinamento'> 
 </p>
 
 
 ## 1. Introdução
 
-Aplicação desenvolvida em **Node.js** para treindar o acesso a API pública do GitHub.
+Aplicação desenvolvida em **Node.js** para acesso a API pública do GitHub.
 
 <p align='center'>
 <img src='https://i.giphy.com/media/WOg7qdA8bRrWutWH9Z/giphy.gif' alt='gif animado'> 
@@ -17,12 +17,16 @@ Aplicação desenvolvida em **Node.js** para treindar o acesso a API pública do
 ## 2. Tecnologias (Techs)
 
 - NodeJs
+- styled-components
+- localStorage
+- react-router-dom
+- useState, useEffect
 
 
 ## 4. Funcionalidades
 
-- Adicionar usuário do GitHub que deseja acompanhar;
-- Visualiza repositórios públicos de um usuário;
+- Adiciona usuário do GitHub que deseja acompanhar;
+- Visualiza todos os repositórios públicos de um usuário;
 - Visualiza quem o usuário segue no GitHub.
 
 <p align='center'>
