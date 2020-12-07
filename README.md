@@ -1,5 +1,5 @@
 # GitHubRepository
-Sistema desenvolvido em **Node.js** 
+Sistema desenvolvido em **React.js** 
 
 <p align='center'>
 <img src='./GoStack.png' alt='logo do treinamento'> 
@@ -8,7 +8,7 @@ Sistema desenvolvido em **Node.js**
 
 ## 1. Introdução
 
-Aplicação desenvolvida em **Node.js** para acesso a API pública do GitHub.
+Aplicação desenvolvida em **React.js** para acesso a API pública do GitHub.
 
 <p align='center'>
 <img src='https://i.giphy.com/media/WOg7qdA8bRrWutWH9Z/giphy.gif' alt='gif animado'> 
